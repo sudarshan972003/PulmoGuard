@@ -5,7 +5,6 @@ The technologies used in this project includes:
 - Python
 - Flask
 - Machine Learning
-- Sqlite3
 
 ## Features
 
